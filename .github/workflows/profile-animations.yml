@@ -9,6 +9,7 @@ on:
       - main
     paths-ignore:
       - "profile-3d-contrib/**"
+      - "profile-summary-card-output/**"
 
 permissions:
   contents: write
@@ -58,3 +59,21 @@ jobs:
             git commit -m "Generate 3D contribution calendar"
             git push
           fi
+
+  summary-cards:
+    needs: contribution-3d
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          AUTO_PUSH: true

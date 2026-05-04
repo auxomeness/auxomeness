@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:2563EB,100:22D3EE&text=Karl%20Austin%20Pavia&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Information%20Technology%20student%20building%20full-stack%20apps,%20clean%20UX,%20and%20reliable%20systems&descAlignY=58&animation=fadeIn" alt="Profile header" />
+  <img src="./assets/profile-header.svg" alt="Karl Austin Pavia profile header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Information+Technology+student;Full-stack+developer+and+graphic+artist;ICPC+Asia-Manila+Regionals+2025+competitor;Building+LUMEN,+EXPY,+and+APoS" alt="Typing SVG" />
@@ -71,18 +71,27 @@ I am a disciplined Information Technology student with experience in software de
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=auxomeness&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=auxomeness&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=60A5FA&currStreakLabel=22D3EE" alt="GitHub streak" />
+  <img width="96%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile details" />
 
   <br />
   <br />
 
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auxomeness&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
+  <img width="31%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="31%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top repository languages" />
+  <img width="31%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top commit languages" />
 
   <br />
   <br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=auxomeness&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=60A5FA&area=true&area_color=22D3EE" alt="Contribution graph" />
+
+</div>
+
+### Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=auxomeness&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
 
 </div>
 
@@ -107,6 +116,7 @@ I am a disciplined Information Technology student with experience in software de
 
 | Project | What it does | Highlights |
 | --- | --- | --- |
+| **[CodeGuard AI](https://github.com/AT512-dev/Team-AVON-Project-for-IBM-Hackathon)** | Team AVON project for the IBM Bob Hackathon 2026 | Team member for backend development and security research; deterministic static analysis, OWASP vulnerability detection, cross-file data-flow tracking, IBM WatsonX-powered remediation |
 | **LUMEN** | Full-stack student productivity application | Smart scheduling, calendar integration, task management, workload analytics, premium UI/UX |
 | **EXPY** | Expense tracking application | Client-server architecture, transaction management, categories, threshold alerts, financial insights |
 | **APoS** | Web and mobile pre-order system | Mobile-first ordering flow, real-time interaction, modern UI/UX, responsive performance |
@@ -115,10 +125,8 @@ I am a disciplined Information Technology student with experience in software de
 
 ```txt
 ICPC Asia-Manila Regionals 2025 competitor
-Second Honors and Third Honors awardee in college
-Consistent Honors Student throughout Senior High School
-1st Place, Online Publishing - Congressional Schools Press Conference
-5th Place, Online Publishing - Division Schools Press Conference
+Team AVON member for the IBM Bob Hackathon 2026
+Backend development and security research for CodeGuard AI
 ```
 
 ### Connect
