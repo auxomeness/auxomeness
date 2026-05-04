@@ -42,6 +42,14 @@ I am a disciplined Information Technology student with experience in software de
 
 </div>
 
+### Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=auxomeness&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
+
+</div>
+
 ### What I build
 
 <table>
@@ -71,11 +79,6 @@ I am a disciplined Information Technology student with experience in software de
 
 <div align="center">
 
-  <img width="96%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile details" />
-
-  <br />
-  <br />
-
   <img width="31%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
   <img width="31%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top repository languages" />
   <img width="31%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top commit languages" />
@@ -84,14 +87,6 @@ I am a disciplined Information Technology student with experience in software de
   <br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=auxomeness&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=60A5FA&area=true&area_color=22D3EE" alt="Contribution graph" />
-
-</div>
-
-### Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=auxomeness&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
 
 </div>
 
@@ -111,7 +106,7 @@ I am a disciplined Information Technology student with experience in software de
 
 | Project | What it does | Highlights |
 | --- | --- | --- |
-| **[CodeGuard AI](https://github.com/AT512-dev/Team-AVON-Project-for-IBM-Hackathon)** | Team AVON project for the IBM Bob Hackathon 2026 | Team member for backend development and security research; deterministic static analysis, OWASP vulnerability detection, cross-file data-flow tracking, IBM WatsonX-powered remediation |
+| **[CodeGuard AI](https://github.com/AT512-dev/Team-AVON-Project-for-IBM-Hackathon)** | Team AVON project for the IBM Bob Hackathon 2026 | Team architect for backend development and security research; deterministic static analysis, OWASP vulnerability detection, cross-file data-flow tracking, IBM WatsonX-powered remediation |
 | **LUMEN** | Full-stack student productivity application | Smart scheduling, calendar integration, task management, workload analytics, premium UI/UX |
 | **EXPY** | Expense tracking application | Client-server architecture, transaction management, categories, threshold alerts, financial insights |
 | **APoS** | Web and mobile pre-order system | Mobile-first ordering flow, real-time interaction, modern UI/UX, responsive performance |
@@ -120,7 +115,7 @@ I am a disciplined Information Technology student with experience in software de
 
 ```txt
 ICPC Asia-Manila Regionals 2025 competitor
-Team AVON member for the IBM Bob Hackathon 2026
+Team AVON architect for the IBM Bob Hackathon 2026
 Backend development and security research for CodeGuard AI
 ```
 
