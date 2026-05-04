@@ -105,11 +105,6 @@ I am a disciplined Information Technology student with experience in software de
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/auxomeness/auxomeness/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  <br />
-  <br />
-
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-
 </div>
 
 ### Featured projects
@@ -135,6 +130,9 @@ Backend development and security research for CodeGuard AI
 
   <a href="https://github.com/auxomeness">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+  </a>
+  <a href="mailto:karlaustinpavia17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
   </a>
   <a href="https://www.facebook.com/karlaustin.pavia">
     <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=22D3EE" alt="Facebook" />
