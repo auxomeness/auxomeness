@@ -1,0 +1,60 @@
+name: Profile Animations
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile-3d-contrib/**"
+
+permissions:
+  contents: write
+
+jobs:
+  contribution-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#22D3EE&color_dots=#0D1117,#1E3A8A,#2563EB,#38BDF8,#A5F3FC
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#22D3EE
+
+      - name: Publish snake animation
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
+
+  contribution-3d:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit 3D contribution calendar
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No 3D contribution changes to commit."
+          else
+            git commit -m "Generate 3D contribution calendar"
+            git push
+          fi

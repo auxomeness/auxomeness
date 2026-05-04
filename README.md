@@ -86,6 +86,23 @@ I am a disciplined Information Technology student with experience in software de
 
 </div>
 
+### Contribution playground
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auxomeness/auxomeness/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auxomeness/auxomeness/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/auxomeness/auxomeness/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+  <br />
+  <br />
+
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+
+</div>
+
 ### Featured projects
 
 | Project | What it does | Highlights |
@@ -93,15 +110,6 @@ I am a disciplined Information Technology student with experience in software de
 | **LUMEN** | Full-stack student productivity application | Smart scheduling, calendar integration, task management, workload analytics, premium UI/UX |
 | **EXPY** | Expense tracking application | Client-server architecture, transaction management, categories, threshold alerts, financial insights |
 | **APoS** | Web and mobile pre-order system | Mobile-first ordering flow, real-time interaction, modern UI/UX, responsive performance |
-
-### Experience snapshot
-
-| Role | Organization | Timeline |
-| --- | --- | --- |
-| IT Support Specialist | RSBN Angel Travel and Tours | Nov 2025 - Present |
-| Graphic Artist | ThePILLARS Publication | Sep 2024 - Current |
-| Head Graphic Artist | SURAT Publication | Jun 2023 - Jun 2024 |
-| Computer Technician & Digital Service Assistant | Pavia's Store and Net Shop | Mar 2020 - Jul 2024 |
 
 ### Highlights
 
@@ -119,6 +127,15 @@ Consistent Honors Student throughout Senior High School
 
   <a href="https://github.com/auxomeness">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/karlaustin.pavia">
+    <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=22D3EE" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/karl-austin-pavia-032814324">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/thatguyaustinn/">
+    <img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram" />
   </a>
 
 </div>
