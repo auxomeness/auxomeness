@@ -16,7 +16,11 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-0F172A?style=flat-square&labelColor=0F172A&color=22D3EE" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Security%20Research-0F172A?style=flat-square&labelColor=0F172A&color=60A5FA" alt="Security Research" />
+  <img src="https://img.shields.io/badge/Product%20Design-0F172A?style=flat-square&labelColor=0F172A&color=818CF8" alt="Product Design" />
+</p>
 
 ### About me
 
@@ -141,10 +145,6 @@ Backend development and security research for CodeGuard AI
 
 </div>
 
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22D3EE,45:2563EB,100:0F172A" alt="Footer wave" />
-
-</div>
+<p align="center">
+  <sub>Building polished products, reliable systems, and security-aware software.</sub>
+</p>
