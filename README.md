@@ -36,8 +36,6 @@ const austin = {
 };
 ```
 
-I am a disciplined Information Technology student with experience in software development, graphic design, and technical support. I build full-stack applications, design user-centered interfaces, troubleshoot systems, and lead creative work with attention to detail.
-
 ### Tech stack
 
 <div align="center">
