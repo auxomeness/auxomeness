@@ -1,0 +1,74 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="mesh" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <linearGradient id="toplight" x1="600" y1="0" x2="600" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="panelShadow" x="-8%" y="-20%" width="116%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="#000000"/>
+  <rect width="1200" height="360" fill="url(#mesh)"/>
+  <rect x="300" y="0" width="600" height="260" fill="url(#toplight)"/>
+
+  <path d="M110 84H1090" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <path d="M110 276H1090" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <path d="M126 60V300" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <path d="M1074 60V300" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <text x="112" y="78" fill="#52525B" font-family="JetBrains Mono, Menlo, monospace" font-size="18">+</text>
+  <text x="1078" y="78" fill="#52525B" font-family="JetBrains Mono, Menlo, monospace" font-size="18">+</text>
+  <text x="112" y="294" fill="#52525B" font-family="JetBrains Mono, Menlo, monospace" font-size="18">+</text>
+  <text x="1078" y="294" fill="#52525B" font-family="JetBrains Mono, Menlo, monospace" font-size="18">+</text>
+
+  <g filter="url(#panelShadow)">
+    <rect x="180" y="92" width="840" height="184" fill="#08080A" fill-opacity="0.88" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  </g>
+
+  <path d="M180 92H1020" stroke="#FFFFFF" stroke-opacity="0.28"/>
+  <path d="M180 276H1020" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <path d="M180 92V276" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <path d="M1020 92V276" stroke="#FFFFFF" stroke-opacity="0.12"/>
+
+  <g font-family="JetBrains Mono, Menlo, monospace" font-size="11" letter-spacing="1.4">
+    <circle cx="218" cy="124" r="4" fill="#FFFFFF"/>
+    <text x="236" y="128" fill="#A1A1AA">AUXOMENESS.PROFILE // REV_2026</text>
+    <text x="964" y="128" text-anchor="end" fill="#71717A">NAGA CITY, PH</text>
+  </g>
+
+  <text x="600" y="184" text-anchor="middle" fill="#FFFFFF" font-family="Space Grotesk, Inter, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="0">
+    Karl Austin Pavia
+  </text>
+  <text x="600" y="216" text-anchor="middle" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0">
+    IT Student | Full-stack Developer | UI/UX Designer | Backend Engineering
+  </text>
+
+  <g font-family="JetBrains Mono, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="1.1">
+    <g transform="translate(240 236)">
+      <rect width="158" height="34" fill="#FFFFFF"/>
+      <text x="79" y="22" text-anchor="middle" fill="#000000">REACT + TYPESCRIPT</text>
+    </g>
+    <g transform="translate(416 236)">
+      <rect width="142" height="34" fill="#0F0F12" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="71" y="22" text-anchor="middle" fill="#F4F4F5">AMD HACKATHON</text>
+    </g>
+    <g transform="translate(576 236)">
+      <rect width="132" height="34" fill="#0F0F12" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="66" y="22" text-anchor="middle" fill="#F4F4F5">IBM HACKATHON</text>
+    </g>
+    <g transform="translate(726 236)">
+      <rect width="232" height="34" fill="#0F0F12" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="116" y="22" text-anchor="middle" fill="#F4F4F5">ICPC ASIA-MANILA REGIONALS</text>
+    </g>
+  </g>
+
+  <path d="M180 92L204 92" stroke="#FFFFFF"/>
+  <path d="M996 92L1020 92" stroke="#FFFFFF"/>
+  <path d="M180 276L204 276" stroke="#FFFFFF"/>
+  <path d="M996 276L1020 276" stroke="#FFFFFF"/>
+</svg>

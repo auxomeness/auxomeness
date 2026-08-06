@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile-header.svg" alt="Karl Austin Pavia profile header" />
+  <img src="./assets/profile-header-v2.svg" alt="Karl Austin Pavia profile header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Information+Technology+student;Full-stack+developer+and+graphic+artist;ICPC+Asia-Manila+Regionals+2025+competitor;Building+LUMEN,+EXPY,+and+APoS" alt="Typing SVG" />
