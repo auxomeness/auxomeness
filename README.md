@@ -48,7 +48,7 @@ const austin = {
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=auxomeness&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-beryl-three.vercel.app/?username=auxomeness&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
 
 </div>
 
