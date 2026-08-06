@@ -36,19 +36,19 @@ const austin = {
 };
 ```
 
-### Tech stack
+### Primary Technology Stack
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,nodejs,express,react,nextjs,vue,nuxt,html,css,tailwind,vite,postgres,supabase,sqlite,prisma,docker,vercel,git,github,figma&perline=13" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,postgres,supabase,vite,git,github&perline=10" alt="Primary technology stack icons" />
 
 </div>
 
-### Trophies
+### Also Experienced With
 
 <div align="center">
 
-  <img src="https://github-profile-trophy-beryl-three.vercel.app/?username=auxomeness&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,sqlite,tailwind,docker,vercel,figma&perline=8" alt="Other technologies I have built systems with" />
 
 </div>
 
