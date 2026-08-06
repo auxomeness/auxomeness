@@ -47,27 +47,27 @@
     Karl Austin Pavia
   </text>
   <text x="600" y="213" text-anchor="middle" fill="#A8B3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0">
-    IT Student | Full-stack Developer | Graphic Artist | Security Research
+    IT Student | Full-stack Developer | UI/UX Designer | Backend Builder
   </text>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="0.4">
-    <g transform="translate(184 238)">
-      <rect width="130" height="34" rx="6" fill="#071827" stroke="#22D3EE" stroke-opacity="0.75"/>
-      <text x="65" y="22" text-anchor="middle" fill="#BAE6FD">REACT + FLASK</text>
+    <g transform="translate(166 238)">
+      <rect width="166" height="34" rx="6" fill="#071827" stroke="#22D3EE" stroke-opacity="0.75"/>
+      <text x="83" y="22" text-anchor="middle" fill="#BAE6FD">REACT + TYPESCRIPT</text>
     </g>
-    <g transform="translate(328 238)">
+    <g transform="translate(346 238)">
       <rect width="152" height="34" rx="6" fill="#081321" stroke="#60A5FA" stroke-opacity="0.75"/>
       <text x="76" y="22" text-anchor="middle" fill="#DBEAFE">NODE + SUPABASE</text>
     </g>
-    <g transform="translate(494 238)">
+    <g transform="translate(512 238)">
       <rect width="148" height="34" rx="6" fill="#111226" stroke="#818CF8" stroke-opacity="0.75"/>
       <text x="74" y="22" text-anchor="middle" fill="#E0E7FF">IBM HACKATHON</text>
     </g>
-    <g transform="translate(656 238)">
+    <g transform="translate(674 238)">
       <rect width="226" height="34" rx="6" fill="#071827" stroke="#22D3EE" stroke-opacity="0.75"/>
       <text x="113" y="22" text-anchor="middle" fill="#BAE6FD">ICPC ASIA-MANILA REGIONALS</text>
     </g>
-    <g transform="translate(896 238)">
+    <g transform="translate(914 238)">
       <rect width="120" height="34" rx="6" fill="#081321" stroke="#60A5FA" stroke-opacity="0.75"/>
       <text x="60" y="22" text-anchor="middle" fill="#DBEAFE">CLEAN UI/UX</text>
     </g>
