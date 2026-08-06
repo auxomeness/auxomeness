@@ -48,7 +48,7 @@ const austin = {
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,sqlite,tailwind,docker,vercel,figma&perline=8" alt="Other technologies I have built systems with" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,cpp,java,python,sqlite,tailwind,docker,vercel,figma&perline=11" alt="Other technologies I have built systems with" />
 
 </div>
 
