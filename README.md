@@ -40,7 +40,7 @@ const austin = {
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,nodejs,express,react,nextjs,vue,nuxt,html,css,tailwind,vite,postgres,supabase,sqlite,prisma,docker,vercel,git,github,figma&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,nodejs,express,react,nextjs,vue,nuxt,html,css,tailwind,vite,postgres,supabase,sqlite,prisma,docker,vercel,git,github,figma&perline=13" alt="Tech stack icons" />
 
 </div>
 
